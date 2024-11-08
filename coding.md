@@ -21,5 +21,3 @@ int64 max value = 2^63 - 1
  - 每个数位的排序：任意一个稳定的排序算法（stable sort）如counting sort
 
 
-## heapq
-<img width="1052" alt="Screenshot 2024-11-07 at 4 51 11 PM" src="https://github.com/user-attachments/assets/5333284d-1525-4bf2-abe0-15af5f6e9aaf">
