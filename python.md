@@ -114,3 +114,5 @@ def combination_sum(nums, target):
 print(combination_sum([2, 3, 5, 7], 10))
 # [(3, 7), (2, 3, 5)]
 ```
+
+10. Decorators
