@@ -13,3 +13,4 @@
     <img width="600" alt="Screenshot 2024-11-06 at 2 53 36 PM" src="https://github.com/user-attachments/assets/71f777b1-90a6-479f-abd7-c11ac16d50c7">
 </div>
 
+4. [Poisson Limit Theorem](https://courses.physics.ucsd.edu/2018/Fall/physics139/Assignments/Final/PoissonLimitTheorem.pdf)
